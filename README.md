@@ -3,3 +3,7 @@
 
 # Output Excel Sheet
 ![Pikachu](https://i.imgur.com/AECZxuk.jpg)
+
+# You can control the number of pixels
+
+![Pikachu](https://i.imgur.com/YCZrJpx.jpg)
